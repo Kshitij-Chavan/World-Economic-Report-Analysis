@@ -1,5 +1,5 @@
 # my_dark_creative.mplstyle
-# (Dark • Calm • Creative — Extended Palette + Tuned Spacing)
+# (Dark • Calm • Creative — Extended Palette + Typographic Hierarchy)
 
 figure.facecolor : "#121212"
 figure.edgecolor : "#121212"
@@ -9,10 +9,17 @@ axes.edgecolor   : "#2A2A2A"
 axes.labelcolor  : "#E6E6E6"
 axes.titlecolor  : "#E6E6E6"
 
+# 🧠 Font sizes
+axes.titlesize   : 11.5    # chart title
+axes.labelsize   : 10.5    # axis labels (smaller than title)
+xtick.labelsize  : 10.0
+ytick.labelsize  : 10.0
+legend.fontsize  : 10.0
+
 # ✨ Improved layout spacing
-axes.labelpad    : 14        # space between label and ticks
-axes.titlepad    : 18        # space between title and plot
-xtick.major.pad  : 8         # tick labels from tick marks
+axes.labelpad    : 14
+axes.titlepad    : 18
+xtick.major.pad  : 8
 ytick.major.pad  : 8
 
 xtick.color      : "#E6E6E6"
@@ -36,7 +43,6 @@ font.size        : 12.5
 legend.facecolor : "#1A1A1A"
 legend.edgecolor : "#2A2A2A"
 legend.frameon   : True
-legend.fontsize  : 11
 legend.labelcolor: "#E6E6E6"
 
 # ✅ Extended 10-color cycle
