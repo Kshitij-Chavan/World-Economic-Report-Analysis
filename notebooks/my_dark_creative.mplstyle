@@ -1,0 +1,37 @@
+# my_dark_creative.mplstyle
+# (Dark • Calm • Creative theme)
+
+figure.facecolor : "#121212"
+figure.edgecolor : "#121212"
+
+axes.facecolor   : "#1A1A1A"
+axes.edgecolor   : "#2A2A2A"
+axes.labelcolor  : "#E6E6E6"
+axes.titlecolor  : "#E6E6E6"
+
+xtick.color      : "#E6E6E6"
+ytick.color      : "#E6E6E6"
+grid.color       : "#2A2A2A"
+grid.alpha       : 0.3
+axes.grid        : True
+
+text.color       : "#E6E6E6"
+
+lines.linewidth  : 2.0
+lines.markersize : 6
+
+patch.edgecolor       : "#121212"
+patch.force_edgecolor : True
+
+font.family      : sans-serif
+font.sans-serif  : Satoshi, Inter, DejaVu Sans, Arial
+font.size        : 12.5
+
+legend.facecolor : "#1A1A1A"
+legend.edgecolor : "#2A2A2A"
+legend.frameon   : True
+legend.fontsize  : 11
+legend.labelcolor: "#E6E6E6"
+
+# ✅ Correct cycler syntax for mplstyle
+axes.prop_cycle  : cycler(color=["#5BC0BE", "#9D7BD8", "#D8B256", "#E07A5F", "#8D8D8D"])
