@@ -1,5 +1,5 @@
 # my_dark_creative.mplstyle
-# (Dark • Calm • Creative theme)
+# (Dark • Calm • Creative — Extended Palette + Tuned Spacing)
 
 figure.facecolor : "#121212"
 figure.edgecolor : "#121212"
@@ -8,6 +8,12 @@ axes.facecolor   : "#1A1A1A"
 axes.edgecolor   : "#2A2A2A"
 axes.labelcolor  : "#E6E6E6"
 axes.titlecolor  : "#E6E6E6"
+
+# ✨ Improved layout spacing
+axes.labelpad    : 14        # space between label and ticks
+axes.titlepad    : 18        # space between title and plot
+xtick.major.pad  : 8         # tick labels from tick marks
+ytick.major.pad  : 8
 
 xtick.color      : "#E6E6E6"
 ytick.color      : "#E6E6E6"
@@ -33,5 +39,5 @@ legend.frameon   : True
 legend.fontsize  : 11
 legend.labelcolor: "#E6E6E6"
 
-# ✅ Correct cycler syntax for mplstyle
-axes.prop_cycle  : cycler(color=["#5BC0BE", "#9D7BD8", "#D8B256", "#E07A5F", "#8D8D8D"])
+# ✅ Extended 10-color cycle
+axes.prop_cycle  : cycler(color=["#4CD3C2","#A68FFF","#F6BD60","#F28482","#84A59D","#C3C1E6","#8FCB9B","#FF9B85","#5DA9E9","#E0A4FF"])
