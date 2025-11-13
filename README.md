@@ -1,5 +1,5 @@
-# World-Economic-Report-Analysis
-# 📊 Project Title
+# Connecting continents through economic insights
+# 📊 World Economic Report
 
 ## 📜 Table of Contents
 - [World-Economic-Report-Analysis](#world-economic-report-analysis)
