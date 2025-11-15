@@ -83,11 +83,23 @@ These findings can help policymakers, economists, and global development organiz
 
 ## 🖼 Dashboard / Visuals  
 
-Add your charts in a `/visuals` folder and reference them like this:
+#### GDP by Region
+![GDP by Region](https://github.com/Kshitij-Chavan/world-economic-report-analysis/blob/main/visuals/stacked%20gdp.png)  
 
-![GDP by Region](visuals/gdp_region.png)  
-![HDI Comparison](visuals/hdi_comparison.png)  
-![Power Consumption vs GDP](visuals/power_gdp.png)
+#### Population by Region
+![GDP by Region](https://github.com/Kshitij-Chavan/world-economic-report-analysis/blob/main/visuals/stacked%20population.png) 
+
+#### Life Expectancy over the Years
+![GDP by Region](https://github.com/Kshitij-Chavan/world-economic-report-analysis/blob/main/visuals/bubble%20chart.png) 
+
+#### Human Developement Index by Region
+![GDP by Region](https://github.com/Kshitij-Chavan/world-economic-report-analysis/blob/main/visuals/bar%20chart.png) 
+
+#### Power Drives Economy
+![GDP by Region](https://github.com/Kshitij-Chavan/world-economic-report-analysis/blob/main/visuals/Power%20Consumption%20and%20GDP%20Relation.png) 
+
+#### World Economic Report
+![GDP by Region](https://github.com/Kshitij-Chavan/world-economic-report-analysis/blob/main/visuals/report%20dashboard.png) 
 
 ---
 
